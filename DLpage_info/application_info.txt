@@ -5,9 +5,9 @@ Ajust-Image-Converter
 Edit Material
 
 ◆ 概要
-This tool optimizes images for AI training of Lora.
 It copies all images within the specified folder, converts them to .
 png format, and saves them to a new folder.
+This tool optimizes images for AI training of Lora.
 
 ◆ 詳細
 A simple GUI tool that batch-converts images in a selected folder to PNG, saving results into a time-stamped output folder.
