@@ -6,7 +6,7 @@
 <img width="600" height="410" alt="github_0" src="https://github.com/user-attachments/assets/f4f263bb-ded5-4b4f-913c-2fae527b0dff" />
 
 ## Download
-<a href="https://github.com/Sadc2h4/Ajust-Image-Converter/releases/tag/V1.0a">
+<a href="https://github.com/P2-Lab-C2H4/Ajust-Image-Converter/releases/tag/v1.0a">
   <img
     src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_1.png"
     alt="Download .zip"
