@@ -1,0 +1,29 @@
+◆ 表示アプリ名
+Ajust-Image-Converter
+
+◆ カテゴリ
+Edit Material
+
+◆ 概要
+This tool optimizes images for AI training of Lora.
+It copies all images within the specified folder, converts them to .
+png format, and saves them to a new folder.
+
+◆ 詳細
+A simple GUI tool that batch-converts images in a selected folder to PNG, saving results into a time-stamped output folder.
+Optional one-click operations include left–right mirroring, pixel-art friendly ×4 upscaling (nearest-neighbor),
+aspect-ratio-preserving canvas resize, and background removal (rembg).
+Workflow is intentionally minimal: choose a folder → start conversion.
+Using this tool's image conversion can improve the accuracy of Lora creation to a certain extent.
+
+◆ 主な機能
+・Batch conversion of images in a folder (PNG)
+・Automatic image resizing
+・Background Removal
+・High-resolution enlargement of pixel art
+
+◆ 作成言語
+Python 3.10.4 on win32
+
+◆ 動作環境
+Windows10，Windows11
